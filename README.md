@@ -4,7 +4,7 @@ UFOs the goal of this project is to make website where people can search for UFO
 
 ## Results 
 I implemented search functionality with the user friendly design. Users can search for UFOs sightings with diffrent search criteria. The search results are displayed in an easy to read format.
-![UFO sightings](screenshot.png)
+![UFO sightings](static/images/screenshot.png)
 
 ## Summary
 Overall this project has been successful in achieving its objective of providing a database of UFO sightings for users to search and explore with different filters.
